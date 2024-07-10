@@ -1,0 +1,32 @@
+.container-inicio{
+width: 20%;
+height: 100vh;
+background-color: rgb(15, 15, 15);
+}
+
+.img-inicio img{
+    width: 270px;
+}
+
+.texto-inicio{
+    color: white;
+}
+
+.direccion-inicio svg{
+color: white;
+width: 25px;
+height: 25px;
+}
+
+.direccion-inicio{
+    color: white;
+}
+
+.button-inicio{
+  background-color: rgb(15, 15, 15); 
+  border: 1px solid white; 
+  border-radius: 10px; 
+  padding: 10px;"
+  cursor: pointer; /* cursor de mano */
+}
+
